@@ -17,7 +17,7 @@ list_req = [
     "statsmodels",
     "nltk",
     "textblob",
-    "xgboost>=0.82,<1.7",
+    "xgboost>=0.82,<2.1",
     "fsspec>=0.8.3",
     "typing-extensions>=4.1.1",
     "pandas-dq>=1.29"
