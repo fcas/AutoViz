@@ -13,7 +13,7 @@ fsspec>=0.8.3
 typing-extensions>=4.1.1
 pandas-dq>=1.29
 numpy<1.24
-hvplot~=0.7.3
+hvplot~=0.10.0
 panel~=0.14.4
 holoviews~=1.14.9
 param==1.13.0
