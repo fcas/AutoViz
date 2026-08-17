@@ -5,7 +5,7 @@ nltk
 emoji
 textblob
 matplotlib<=3.7.4
-seaborn>=0.12.2
+seaborn>=0.13.2
 scikit-learn
 statsmodels
 xgboost>=0.82,<1.7
